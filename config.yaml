@@ -1,0 +1,35 @@
+baseURL: "https://reliabilityengineering.io/"
+languageCode: "en-us"
+defaultContentLanguage: "en"
+title: "DFW SRE"
+theme: "hugo-theme-learn"
+
+params:
+  themeVariant: blue
+  editURL: "https://github.com/dfwsre/reliabilityengineering.io"
+  description: ""
+  disableBreadcrumb: false
+  disableNextPrev: false
+  showVisitedLinks: false
+
+outputs:
+  home:
+  - HTML
+  - RSS 
+  - JSON
+
+Languages:
+  en:
+    title: "Documentation for Hugo Learn Theme"
+    weight: 1
+    languageName: "English"
+    menu:
+      shortcuts:
+      - name: "<i class='fab fa-fw fa-github'></i> Github repo"
+        identifier: "ds"
+        url: "https://github.com/dfwsre/reliabilityengineering.io"
+        weight: 10
+      - name: "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+        identifier: "hugodoc"
+        url: "https://gohugo.io/"
+        weight: 20
