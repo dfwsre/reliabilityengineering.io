@@ -12,7 +12,7 @@ branches:
   - master
 
 before_script:
-- go get github.com/gohugoio/hugo
+- env GO111MODULE=on go get -v github.com/gohugoio/hugo
 - git clone https://github.com/matcornic/hugo-theme-learn themes/hugo-theme-learn
 script:
 - hugo
