@@ -1,6 +1,6 @@
 ---
 title: "Press Kit"
-chapter: true
+weight: 110
 ---
 
 The following are authorized logos
