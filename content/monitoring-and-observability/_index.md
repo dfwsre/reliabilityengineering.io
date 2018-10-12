@@ -1,5 +1,6 @@
 ---
 title: "Monitoring & Observability"
-chapter: true
+weight: 10
 ---
+
 Test
