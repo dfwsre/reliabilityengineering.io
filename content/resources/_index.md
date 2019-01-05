@@ -3,7 +3,16 @@ title: Resources
 weight: 20
 ---
 
-As with any popular topic, there are a lot of junk resources available. This page will attempt to fix that. Additionally we do not list anything done by vendors. If you want to add something, send us a PR, if you find a vendor talk or article, please tell someone.
+Want to add something? Make a PR.
+
+Want to remove something? Make a PR!
+
+#### Things we intentionally leave out
+
+* Chat
+* Twitter
+* Vendor supplied material
+* Overly biased material
 
 #### Books
 
