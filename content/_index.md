@@ -15,7 +15,7 @@ We are a group of like-minded engineers from systems engineering (SE) and softwa
 
 ## Where?
 
-We currently meet at The Home Depot on the **first Wednesday** of every month, minus January and February. See our [Meetup page for details](https://www.meetup.com/DFW-Site-Reliability-Engineering/). You can also join us on [Slack here](http://dfwsre.slack.com/)!  Submit your email address [here](https://dfwsre.herokuapp.com/) for an invite!
+We currently meet at The Home Depot on the **first Wednesday** of every month, minus January and February. See our [Meetup page for details](https://www.meetup.com/DFW-Site-Reliability-Engineering/). You can also join us on [Slack here](http://dfwsre.slack.com/)!  Submit your email address [here](https://dfwsre-slack-invitations.fly.dev/) for an invite!
 
 ## New to SRE?
 
