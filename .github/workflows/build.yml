@@ -25,11 +25,11 @@ jobs:
         run: hugo --minify
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/master' # Only publish default branch
+        if: github.ref == 'refs/heads/development' # Only publish default branch
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages
+          publish_branch: master
           cname: reliabilityengineering.io
           allow_empty_commit: true
           user_name: 'github-actions[bot]'
